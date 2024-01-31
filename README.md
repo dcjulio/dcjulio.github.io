@@ -15,22 +15,20 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 
 ***
 ### Publications
-<ol reversed>
-<li> Computing parametrised large intersection sets of 1D invariant manifolds<br>
+1. Computing parametrised large intersection sets of 1D invariant manifolds<br>
    Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga,<br>
-   [Preprint](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html).</li>
+   [Preprint](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html).<br>
 
-<li> Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
+2. Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
    Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
    SIAM Journal on Applied Dynamical Systems, <b>19</b>, pp. 1392-1437, 2020.<br>
    <b>Selected for inclusion in SIAM Epidemiology Collection.</b><br>
-   [Preprint](https://dcjulio.github.io/2020Wolbachia).</li>
+   [Preprint](https://dcjulio.github.io/2020Wolbachia).<br>
 
-<li> Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
+3. Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
   Dana Contreras-Julio  & Pablo Aguirre,<br>
   Mathematical Methods in the Applied Sciences, <b>41</b>, pp. 2699-2714, 2018.<br>
-  [Preprint](https://dcjulio.github.io/2017DoubleAllee).</li>
-  </ol>
+  [Preprint](https://dcjulio.github.io/2017DoubleAllee).<br>
 
 ***
 ### Posters
