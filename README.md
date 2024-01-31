@@ -7,14 +7,3 @@
 
 
 ![Intersection points of one-dimensional manifolds as a function of xi](/assets/img/movie.gif)
-
-{% comment %}
-This is a Table
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-{% endcomment %}
-
-
-  <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
