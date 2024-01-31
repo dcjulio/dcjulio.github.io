@@ -4,6 +4,14 @@ layout: template
 filename: 2020Wolbachia.md
 --- 
 <p align="center">
+<b>Finding strategies to regulate propagation and containment of dengue via invariant manifold analysis</b>
+</p>
+<p align="center">
+Dana Contreras-Julio, Pablo Aguirre, Jose Mujica and Olga Vasilieva,
+</p>
+
+***
+<p align="center">
 <b>Abstract</b>
 </p>
 
