@@ -26,7 +26,7 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 1. Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
   Dana Contreras-Julio  & Pablo Aguirre,<br>
   Mathematical Methods in the Applied Sciences, <b>41</b>, pp. 2699-2714, 2018.<br>
-  [Preprint](https://dcjulio.github.io/2017DoubleAllee).
+  [Preprint](https://dcjulio.github.io/2017DoubleAllee).<br>
 
 ### Posters
 #### Blender Hunting: the search for wild chaos (2023)
