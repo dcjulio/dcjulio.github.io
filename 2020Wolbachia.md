@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title:2020Wolbachia
 layout: template
 filename: 2020Wolbachia.md
 --- 
