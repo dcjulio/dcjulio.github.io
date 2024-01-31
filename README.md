@@ -14,13 +14,13 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 
 2. Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
    Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
-   SIAM Journal on Applied Dynamical Systems, 19 (2020), pp. 1392-1437.<br>
+   SIAM Journal on Applied Dynamical Systems, <b>19</b>, pp. 1392-1437, 2020.<br>
    <b>Selected for inclusion in SIAM Epidemiology Collection.</b><br>
    [Preprint](https://dcjulio.github.io/2020Wolbachia).
 
 1. Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
   Dana Contreras-Julio  & Pablo Aguirre,<br>
-  Mathematical Methods in the Applied Sciences, 41 (2018), pp. 2699-2714.<br>
+  Mathematical Methods in the Applied Sciences, <b>41</b>, pp. 2699-2714, 2018.<br>
   [Preprint](https://dcjulio.github.io/2017DoubleAllee).
 
 
