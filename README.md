@@ -29,4 +29,5 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
   [Preprint](https://dcjulio.github.io/2017DoubleAllee).
 
 ### Posters
+<img src='/assets/img/SRS_poster.png'>
 
