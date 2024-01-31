@@ -15,3 +15,6 @@ This is a Table
 | Header      | Title       |
 | Paragraph   | Text        |
 {% endcomment %}
+
+
+  <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
