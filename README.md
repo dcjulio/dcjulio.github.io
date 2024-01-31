@@ -34,24 +34,23 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 #### Blender Hunting: the search for wild chaos (2023)
 SGS Research Showcase, University of Auckland, New Zealand.<br>
 Awarded the <b>Judges' Choice Second Place</b> in the Academic Poster category.<br>
-[![poster](/assets/img/SRS_poster.png)](/assets/img/SRS_poster.png){:target="_blank"}<br>
+[![SRS_poster](/assets/img/SRS_poster.png)](/assets/img/SRS_poster.png){:target="_blank"}<br>
 
 ***
 #### Three-dimensional horseshoes and orientation reversal in wild chaos (2021)
 SIAM Conference on Applications of Dynamical Systems<br>
-Awarded the <b>Red Sock Award</b> for the best poster presentation.<br>
-![<img src='/assets/img/DS.jpg'>](/assets/img/DS.jpg)<br>
+Awarded the <b>Red Sock Award</b> for the best poster presentation.<be>
+[![SIAM_poster](/assets/img/DS.jpg)](/assets/img/DS.jpg){:target="_blank"}<br>
 
 ***
 #### Chaos in the double pendulum (2016)
-Festival de las matematicas, Valparaiso, Chile.<br>
-![<img src='/assets/img/pendulo_doble.png'>](/assets/img/pendulo_doble.png)<br>
+Festival de las matematicas, Valparaiso, Chile.<be>
+[![double_pendulum_poster](/assets/img/pendulo_doble.png)](/assets/img/pendulo_doble.png){:target="_blank"}<br>
 
 ***
 #### Global Dynamics and bifurcations in a predator-prey model with double Allee effect (2015)
 XLI Semana de la Matematica, Valparaiso, Chile.<br>
 Awarded the best poster presentation.<br>
-![<img src='/assets/img/doble_efecto_Allee.jpg'>](/assets/img/doble_efecto_Allee.jpg)<br>
-
+[![Allee_poster](/assets/img/doble_efecto_Allee.jpg)](/assets/img/doble_efecto_Allee.jpg){:target="_blank"}<br>
 
 
