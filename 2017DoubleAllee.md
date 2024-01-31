@@ -4,6 +4,15 @@ layout: template
 filename: 2017DoubleAllee.md
 --- 
 <p align="center">
+<b>Allee thresholds and basins of attraction in a predation
+model with double Allee effect</b>
+</p>
+<p align="center">
+Dana Contreras-Julio and Pablo Aguirre
+</p>
+
+***
+<p align="center">
 <b>Abstract</b>
 </p>
 
