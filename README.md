@@ -1,6 +1,5 @@
-
-
 ## Dana C'Julio
+
 ### Publications
 1. Computing parametrised large intersection sets of 1D invariant manifolds
    Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga
