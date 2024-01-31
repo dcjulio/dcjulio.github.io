@@ -17,7 +17,10 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
    SIAM Journal on Applied Dynamical Systems, 19 (2020), pp. 1392-1437.<br>
    Selected for inclusion in SIAM Epidemiology Collection. [Preprint](https://dcjulio.github.io/2020Wolbachia).
 
-1. 
+1. Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
+  Dana Contreras-Julio  & Pablo Aguirre,<br>
+  Mathematical Methods in the Applied Sciences, 41 (2018), pp. 2699-2714.<br>
+  [Preprint](https://dcjulio.github.io/2017DoubleAllee).
 
 
 
