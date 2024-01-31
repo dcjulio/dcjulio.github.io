@@ -1,6 +1,7 @@
 ## Portfolio
 
 I am a Ph.D. candidate in Applied Mathematics at the University of Auckland, focusing on Dynamic Systems. Specifically, my research centers on Chaos Theory, Bifurcation Theory, and Numerical Methods in vector fields and maps.  My academic journey is driven by a passion for visualising complex mathematical concepts with the aim to present them in an intuitive manner.
+
 ***
 ### My Research
 My research centres on a form of chaos called  <i>wild chaos</i>. Wild chaos is a new type of dynamics with certain robustness properties that can arise in diffeomorphisms of dimension at least three. The primary objective of my work is to uncover the geometric mechanisms that give rise to this abstract form of chaos in an explicit system. <br>
