@@ -14,4 +14,4 @@ We consider a competition model between wild <i>Aedes aegypti</i> female mosquit
 
 ***
 
-[PDF Copy](/assets/files/2020Wolbachia.pdf).
+[PDF Copy](/assets/files/camv_wolbachia.pdf).
