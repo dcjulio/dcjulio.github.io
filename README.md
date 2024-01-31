@@ -1,8 +1,8 @@
-## $${\color{white}Dana C'Julio}$$
+### Portfolio
 
 ### Publications
-1. Computing parametrised large intersection sets of 1D invariant manifolds
-   Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga
+1. Computing parametrised large intersection sets of 1D invariant manifolds<br>
+   Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga<br>
    [Preprint](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html) University of Auckland, 2023.
 
 
