@@ -8,7 +8,8 @@
 
 ![Intersection points of one-dimensional manifolds as a function of xi](/assets/img/movie.gif)
 
+{% This is a Table 
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
-| Paragraph   | Text        |
+| Paragraph   | Text        |%}
