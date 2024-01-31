@@ -4,7 +4,7 @@ layout: template
 filename: 2020Wolbachia.md
 --- 
 
-<centre>**Abstract**
+**<centre>Abstract**
 
 ***
 
