@@ -1,5 +1,5 @@
 ---
-title:2020Wolbachia
+title: 2020Wolbachia
 layout: template
 filename: 2020Wolbachia.md
 --- 
