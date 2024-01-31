@@ -37,7 +37,7 @@ Awarded the <b>Judges' Choice Second Place</b> in the Academic Poster category.<
 #### Three-dimensional horseshoes and orientation reversal in wild chaos (2021)
 SIAM Conference on Applications of Dynamical Systems<br>
 Awarded the <b>Red Sock Award</b> for the best poster presentation.<br>
-<img src='/assets/img/DS.png'>
+<img src='/assets/img/DS.jpg'>
 
 #### Global Dynamics and bifurcations in a predator-prey model with double Allee effect (2015)
 XLI Semana de la Matematica, Valparaiso, Chile.<br>
