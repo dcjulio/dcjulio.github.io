@@ -30,7 +30,7 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 
 ### Posters
 #### Blender Hunting: the search for wild chaos
-SGS Research Showcase, University of Auckland, New Zealand.
-Awarded <b>Judges' Choice Second Place</b> in the academic Poster category.
+SGS Research Showcase, University of Auckland, New Zealand.<br>
+Awarded <b>Judges' Choice Second Place</b> in the academic Poster category.<br>
 <img src='/assets/img/SRS_poster.png'>
 
