@@ -29,8 +29,8 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
   [Preprint](https://dcjulio.github.io/2017DoubleAllee).
 
 ### Posters
-#### Blender Hunting: the search for wild chaos
+#### Blender Hunting: the search for wild chaos (2023)
 SGS Research Showcase, University of Auckland, New Zealand.<br>
-Awarded <b>Judges' Choice Second Place</b> in the academic Poster category.<br>
+Awarded the <b>Judges' Choice Second Place</b> in the Academic Poster category.<br>
 <img src='/assets/img/SRS_poster.png'>
 
