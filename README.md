@@ -1,11 +1,11 @@
 ## Portfolio
 
-I am a Ph.D. candidate in Applied Mathematics at the University of Auckland, focusing on Dynamic Systems. Specifically, my research centers on Chaos Theory, Bifurcation Theory, and Numerical Methods in vector fields and maps.  My academic journey is driven by a passion for visualising complex mathematical concepts with the aim to present them in an intuitive manner.
+I am a Ph.D. candidate in Applied Mathematics at the University of Auckland, focusing on Dynamic Systems. Specifically, my research centres on Chaos Theory, Bifurcation Theory, and Numerical Methods in vector fields and maps. My academic journey is driven by a passion for visualising complex mathematical concepts with the aim of presenting them intuitively.
 
 ***
 ### My Research
 My research centres on a form of chaos called  <i>wild chaos</i>. Wild chaos is a new type of dynamics with certain robustness properties that can arise in diffeomorphisms of dimension at least three. The primary objective of my work is to uncover the geometric mechanisms that give rise to this abstract form of chaos in an explicit system. <br>
-An essential ingredient in this context is a <i>blender</i>: a geometric object that appears to be higher-dimensional.  What does a blender look like? As a result of my research, the image below shows an example of the destruction of a blender in a three-dimensional Henon-like family as parameters change. This was achieved through an algorithm developed in MATLAB (available in [[1](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html)]) to compute the one-dimensional manifolds of a map. This approach allows us to topologically characterise the process of the emergence of a blender and shedding light to how blenders lose their defining properties as parameters change.
+An essential ingredient in this context is a <i>blender</i>: a geometric object that appears to be higher-dimensional. What does a blender look like? As a result of my research, the image below shows an example of the destruction of a blender in a three-dimensional Henon-like family as parameters change. This was achieved through an algorithm developed in MATLAB (available in [[1](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html)]) to compute the one-dimensional manifolds of a map. This approach allows us to topologically characterise the process of a blender's emergence and shed light on how blenders lose their defining properties as parameters change.
 
 ![Intersection points of one-dimensional manifolds as a function of xi](/assets/img/movie.gif)
 <p align="center">
