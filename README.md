@@ -7,7 +7,10 @@ My research centres on a form of chaos called  <i>wild chaos</i>. Wild chaos is 
 An essential ingredient in this context is a <i>blender</i>: a geometric object that appears to be higher-dimensional.  What does a blender look like? As a result of my research, the image belows shows an example of the destruction of a blender in a three-dimensional Henon-like family as parameters change. This was achieved through an algorithm developed in MATLAB (and available in [3]) to compute the one-dimensional manifolds of a map. This approach allows us to topologically characterise the process of the emergence of a blender and shedding light to how blenders lose their defining properties as parameters change.
 
 ![Intersection points of one-dimensional manifolds as a function of xi](/assets/img/movie.gif)
-<small>The destruction of a blender in a three-dimensional Henon-like family as parameters change.</small>
+<p align="center">
+<font size="-2">The destruction of a blender in a three-dimensional Henon-like family as parameters change.</font>
+</p>
+
 
 ### Publications
 3. Computing parametrised large intersection sets of 1D invariant manifolds<br>
