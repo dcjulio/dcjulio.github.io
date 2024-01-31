@@ -10,12 +10,13 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 ### Publications
 3. Computing parametrised large intersection sets of 1D invariant manifolds<br>
    Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga,<br>
-   [Preprint](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html) University of Auckland, 2023.
+   [Preprint](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html).
 
 2. Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
    Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
    SIAM Journal on Applied Dynamical Systems, 19 (2020), pp. 1392-1437.<br>
-   Selected for inclusion in SIAM Epidemiology Collection. [Preprint](https://dcjulio.github.io/2020Wolbachia).
+   <b>Selected for inclusion in SIAM Epidemiology Collection.</b><br>
+   [Preprint](https://dcjulio.github.io/2020Wolbachia).
 
 1. Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
   Dana Contreras-Julio  & Pablo Aguirre,<br>
