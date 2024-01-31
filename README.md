@@ -28,5 +28,5 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
   Mathematical Methods in the Applied Sciences, <b>41</b>, pp. 2699-2714, 2018.<br>
   [Preprint](https://dcjulio.github.io/2017DoubleAllee).
 
-
+### Posters
 
