@@ -39,12 +39,12 @@ Awarded the <b>Judges' Choice Second Place</b> in the Academic Poster category.<
 ***
 #### Three-dimensional horseshoes and orientation reversal in wild chaos (2021)
 SIAM Conference on Applications of Dynamical Systems<br>
-Awarded the <b>Red Sock Award</b> for the best poster presentation.<be>
+Awarded the <b>Red Sock Award</b> for the best poster presentation.<br>
 [![SIAM_poster](/assets/img/DS.jpg)](/assets/img/DS.jpg){:target="_blank"}<br>
 
 ***
 #### Chaos in the double pendulum (2016)
-Festival de las matematicas, Valparaiso, Chile.<be>
+Festival de las matematicas, Valparaiso, Chile.<br>
 [![double_pendulum_poster](/assets/img/pendulo_doble.png)](/assets/img/pendulo_doble.png){:target="_blank"}<br>
 
 ***
