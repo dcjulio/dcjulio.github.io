@@ -51,6 +51,6 @@ Festival de las matematicas, Valparaiso, Chile.<be>
 #### Global Dynamics and bifurcations in a predator-prey model with double Allee effect (2015)
 XLI Semana de la Matematica, Valparaiso, Chile.<br>
 Awarded the best poster presentation.<br>
-[![Allee_poster](/assets/img/doble_efecto_Allee.jpg)](/assets/img/doble_efecto_Allee.jpg){:target="_blank"}<br>
+[![Allee_poster](/assets/img/doble_efecto_Allee.jpg)](/assets/img/doble_efecto_Allee.jpg){:target="_blank"}<br> 
 
 
