@@ -15,7 +15,7 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 2. Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
    Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
    SIAM Journal on Applied Dynamical Systems, 19 (2020), pp. 1392-1437.<br>
-   Selected for inclusion in SIAM Epidemiology Collection. [Preprint](/assets/files/Wolbachia2020.pdf).
+   Selected for inclusion in SIAM Epidemiology Collection. [Preprint](https://dcjulio.github.io/newpage).
 
 1. 
 
