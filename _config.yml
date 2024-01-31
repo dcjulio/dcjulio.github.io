@@ -1,5 +1,6 @@
 title: Dana C'Julio
 logo: /assets/img/logo.jpg
-description: [Preprint](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html)
+#description: description
+url: https://profiles.auckland.ac.nz/dana-cjulio
 #show_downloads: true 
 theme: jekyll-theme-minimal
