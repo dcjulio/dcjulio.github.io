@@ -34,7 +34,7 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 #### Blender Hunting: the search for wild chaos (2023)
 SGS Research Showcase, University of Auckland, New Zealand.<br>
 Awarded the <b>Judges' Choice Second Place</b> in the Academic Poster category.<br>
-![<img src='/assets/img/SRS_poster.png'>](/assets/img/SRS_poster.png)<br>
+[![poster](/assets/img/SRS_poster.png)](/assets/img/SRS_poster.png){:target="_blank"}<br>
 
 ***
 #### Three-dimensional horseshoes and orientation reversal in wild chaos (2021)
