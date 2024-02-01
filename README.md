@@ -29,6 +29,12 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
   Dana Contreras-Julio  & Pablo Aguirre,<br>
   Mathematical Methods in the Applied Sciences, <b>41</b>, pp. 2699-2714, 2018.<br>
   [Preprint](https://dcjulio.github.io/2017DoubleAllee).<br>
+  
+<ol reversed>
+    <li> Content...<a href="https://dcjulio.github.io/2017DoubleAllee">Preprint</a> </li>
+    <li> Content... </li>
+    <li> Content... </li>
+</ol>
 
 ***
 ### Posters
