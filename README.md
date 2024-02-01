@@ -23,11 +23,11 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
          Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
          SIAM Journal on Applied Dynamical Systems, <b>19</b>, pp. 1392-1437, 2020.<br>
          <b>Selected for inclusion in SIAM Epidemiology Collection.</b><br>
-         <a href="https://dcjulio.github.io/2020Wolbachia">Abstract and PDF</a><br><br></li>
+         <a href="https://dcjulio.github.io/2020Wolbachia">Preprint</a><br><br></li>
     <li> Allee thresholds and basins of attraction in a predation model with double Allee effect,<br>
          Dana Contreras-Julio  & Pablo Aguirre,<br>
          Mathematical Methods in the Applied Sciences, <b>41</b>, pp. 2699-2714, 2018.<br>
-        <a href="https://dcjulio.github.io/2017DoubleAllee">Abstract and PDF</a><br><br></li>
+        <a href="https://dcjulio.github.io/2017DoubleAllee">Preprint</a><br><br></li>
 </ol>
 
 ***
