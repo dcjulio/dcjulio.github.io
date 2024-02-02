@@ -12,7 +12,7 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 <p align="center">
 <font size="-2">The destruction of a blender in a three-dimensional Henon-like family as parameters change.</font>
 </p>
-This was achieved through an algorithm developed in MATLAB (available in [[here](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html)]) to compute the one-dimensional manifolds of a map. This approach allows us to topologically characterise the process of a blender's emergence and shed light on how blenders lose their defining properties as parameters change.<br>
+This was achieved through an algorithm developed in MATLAB to compute the one-dimensional manifolds of a map (preprint and demo available [[here](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html)]). This approach allows us to topologically characterise the process of a blender's emergence and shed light on how blenders lose their defining properties as parameters change.<br>
 <b>Supervisors:</b> [Hinke M. Osinga](https://www.math.auckland.ac.nz/~hinke/index.html) and [Bernd Krauskopf](https://www.math.auckland.ac.nz/~berndk/) 
 
 
