@@ -1,5 +1,7 @@
 ## Portfolio
-In 2018, I completed my undergraduate studies as a Mathematical Civil Engineer at the Universidad Técnica Federico Santa María in Valparaiso, Chile. I am currently furthering my academic journey by pursuing a Ph.D. in Applied Mathematics at the University of Auckland, where my focus is on Dynamical Systems. My research specifically delves around Chaos Theory, Bifurcation Theory, and Numerical Methods applied to vector fields and maps. One of my driving motivations is the challenge of presenting and visualising intricate mathematical concepts in an intuitive manner, thereby enhancing their understanding.
+In 2018, I completed my undergraduate studies as a Mathematical Civil Engineer asupervised by [Pablo Aguirre](http://paguirre.mat.utfsm.cl/) at the Universidad Técnica Federico Santa María in Valparaiso, Chile. I am currently furthering my academic journey by pursuing a Ph.D. in Applied Mathematics at the University of Auckland under the supervision of [Hinke M. Osinga](https://www.math.auckland.ac.nz/~hinke/index.html) and [Bernd Krauskopf](https://www.math.auckland.ac.nz/~berndk/), where my focus is on Dynamical Systems. My research specifically delves around Chaos Theory, Bifurcation Theory, and Numerical Methods applied to vector fields and maps. One of my driving motivations is the challenge of presenting and visualising intricate mathematical concepts in an intuitive manner, thereby enhancing their understanding.
+
+
 
 ***
 ### PhD Research
