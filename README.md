@@ -1,6 +1,5 @@
 ## Portfolio
-
-I am doing my PhD in Applied Mathematics at the University of Auckland, focusing on Dynamical Systems. Specifically, my research centres on Chaos Theory, Bifurcation Theory, and Numerical Methods in vector fields and maps. My academic journey is driven by a passion for visualising complex mathematical concepts with the aim of presenting them intuitively.
+I began my jouney obtaining the title of Mathematical Civil Engineering in 2019 at the Universidad Técnica Federico Santa Maria in Valparaiso, Chile. Currently, I am pursuing my PhD in Applied Mathematics at the University of Auckland, focusing on Dynamical Systems. Specifically, my research centres on Chaos Theory, Bifurcation Theory, and Numerical Methods in vector fields and maps. My academic journey is driven by a passion for visualising complex mathematical concepts with the aim of presenting them intuitively.
 
 ***
 ### PhD Research
