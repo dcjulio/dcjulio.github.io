@@ -3,9 +3,6 @@ In 2018, I completed my undergraduate studies as a Mathematical Civil Engineer s
 I have the conviction that dynamical systems play a fundamental role in understanding phenomena that surround us. Thus, one of my driving motivations is the challenge of not only unravelling but also presenting and visualising intricate mathematical concepts in my research area, where visualisation serves as a tool to uncover hidden structures. It's the art of making complexity accessible, an endeavour to enrich our understanding in the most intuitive and engaging way possible.
 
 
-Visualisation serves as a tool to uncover hidden structures, making complexity accessible to enrich understanding in the most intuitive and engaging way.
-
-
 ***
 ### PhD Research
 My research centres on a form of chaos called  <i>wild chaos</i>. Wild chaos is a new type of dynamics with certain robustness properties that can arise in diffeomorphisms of dimension at least three. The primary objective of my work is to uncover the geometric mechanisms that give rise to this abstract form of chaos in an explicit system.
