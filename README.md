@@ -13,7 +13,7 @@ An essential ingredient in this context is a <i>blender</i>: a geometric object 
 
 ![Intersection points of one-dimensional manifolds as a function of xi](/assets/img/movie.gif)
 <p align="center">
-<font size="-2">The destruction of a blender in a three-dimensional Henon-like family as parameters change. Plotted are the one-dimensional manifolds of two fixed points of a three-dimensional Hénon-like map as parameters change.</font>
+<font size="-2">The destruction of a blender in a three-dimensional Henon-like family as parameters change. Plotted are the one-dimensional manifolds of two different fixed points.</font>
 </p>
 This was achieved through an algorithm developed in MATLAB to compute the one-dimensional manifolds of a map (preprint and demo available [[here](https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html)]). This approach allows us to topologically characterise the process of a blender's emergence and shed light on how blenders lose their defining properties as parameters change.
 
