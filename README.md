@@ -1,6 +1,6 @@
 ## Portfolio
 
-My research centres on dynamical systems, with a particular focus on Chaos Theory, Bifurcation Theory, and the application of Numerical Methods to vector fields and maps. In 2018, I completed my undergraduate studies as a Mathematical Civil Engineer supervised by [Pablo Aguirre](http://paguirre.mat.utfsm.cl/) at the Universidad Técnica Federico Santa María in Valparaiso, Chile. This formative period cultivated my passion for mathematics and laid the foundation for my doctoral studies. Currently, I am continuing my academic journey in applied mathematics as a PhD student at the University of Auckland, under the supervision of [Hinke M. Osinga](https://www.math.auckland.ac.nz/~hinke/index.html) and [Bernd Krauskopf](https://www.math.auckland.ac.nz/~berndk/).
+My research centres on dynamical systems, with a particular focus on Chaos Theory, Bifurcation Theory, and the application of Numerical Methods to vector fields and maps. In 2018, I completed my professional degree in Civil Mathematical Engineering supervised by [Pablo Aguirre](http://paguirre.mat.utfsm.cl/) at the Universidad Técnica Federico Santa María in Valparaiso, Chile. This formative period cultivated my passion for mathematics and laid the foundation for my doctoral studies. After that, I continued my academic journey in applied mathematics as a PhD student at the University of Auckland, under the supervision of [Hinke M. Osinga](https://www.math.auckland.ac.nz/~hinke/index.html) and [Bernd Krauskopf](https://www.math.auckland.ac.nz/~berndk/), from which I graduated in 2024.
 
 I firmly believe in the critical role of dynamical systems in understanding the mysteries of complex phenomena that surround us.  Thus, one of my driving motivations is to develop sophisticated numerical methods to not only unravel but also aim to make abstract concepts and complex dynamics accessible through visualisation.  I hope to contribute to a broader appreciation and understanding of the mathematical structures that underpin so much of the world around us.
 
@@ -26,6 +26,7 @@ This was achieved through an algorithm developed in MATLAB to compute the one-di
 <ol reversed>
     <li> Computing parametrised large intersection sets of 1D invariant manifolds<br>
          Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga,<br>
+        Numerical Algorithms <b>96<b>(3): 1079–1108, 2024; in Collection ANODE 2023 – In honour of John Butcher's 90th birthday.<br>
          <a href="https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html">Preprint</a><br><br></li>
     <li> Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
          Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
