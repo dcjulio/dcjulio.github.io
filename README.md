@@ -7,7 +7,7 @@ I firmly believe in the critical role of dynamical systems in understanding the 
 
 ***
 ### PhD Research
-My research centres on a form of chaos called  <i>wild chaos</i>. Wild chaos is a new type of dynamics with certain robustness properties that can arise in diffeomorphisms of dimension at least three. The primary objective of my work is to uncover the geometric mechanisms that give rise to this abstract form of chaos in an explicit system.
+My research centres on a form of chaos called  <i>wild chaos</i>. Wild chaos is a new type of dynamics with certain robustness properties that can arise in diffeomorphisms of dimension at least three. The primary objective of my work is to uncover the geometric mechanisms that give rise to this abstract form of chaos in an explicit system. 
 
 An essential ingredient in this context is a <i>blender</i>: a geometric object that appears to be higher-dimensional. What does a blender look like? The one-dimensional manifold of a blender 'looks' as a surface. As a result of my research, the image shows an example of the destruction of a blender in a three-dimensional Henon-like family as we vary one parameter. <br>
 
