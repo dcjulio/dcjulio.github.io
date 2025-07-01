@@ -26,7 +26,7 @@ This was achieved through an algorithm developed in MATLAB to compute the one-di
 <ol reversed>
     <li> Computing parametrised large intersection sets of 1D invariant manifolds<br>
          Dana C'Julio, Bernd Krauskopf & Hinke M. Osinga,<br>
-        Numerical Algorithms <b>96<b>(3): 1079–1108, 2024; in Collection ANODE 2023 – In honour of John Butcher's 90th birthday.<br>
+        Numerical Algorithms <b>96</b>(3), pp. 1079–1108, 2024; in Collection ANODE 2023 – In honour of John Butcher's 90th birthday.<br>
          <a href="https://www.math.auckland.ac.nz/~hinke/preprints/cko_algorithm.html">Preprint</a><br><br></li>
     <li> Finding Strategies to Regulate Propagation and Containment of Dengue via Invariant Manifold Analysis<br>
          Dana Contreras-Julio, Pablo Aguirre, José Mujica & Olga Vasilieva,<br>
